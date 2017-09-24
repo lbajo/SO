@@ -1,1 +1,2 @@
-# SO
+# Sistemas operativos
+ Prácticas en C.
